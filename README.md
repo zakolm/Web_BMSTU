@@ -26,7 +26,7 @@
 
 | Number | Issued | Status | On GitHub | Exercise |
 |------|---|------|----------|---|
-| :one: | :white_check_mark: | :x: | :x: | Изучение протокола HTTP |
+| :one: | :white_check_mark: | :x: | :x: | [Изучение протокола HTTP](https://github.com/zakolm/Web_BMSTU/wiki/Лабораторная-работа-№1) |
 | :two: | :x: | :x: | :x: | |
 | :three: | :x: | :x: | :x: | |
 | :four: | :x: | :x: | :x: | |
